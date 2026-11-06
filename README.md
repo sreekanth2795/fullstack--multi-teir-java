@@ -1,9 +1,4 @@
 # Fullstack-MultiTier-Java
-
-
-
-https://github.com/sreekanth2795/Fullstack-MultiTier-Java
-
  
 CICD Pipeline Stages
 ------------------------
